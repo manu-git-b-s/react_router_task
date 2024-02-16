@@ -1,67 +1,10 @@
-## Table of Contents
+# React Router Application WEB APP
 
-- [Project Dashboard](#project-dashboard)
-  - [Installation \& Getting Started](#installation--getting-started)
-- [Project Features](#project-features)
-  - [1. All Domain](#1-all-domain)
-  - [2. FullStack](#2-fullstack)
-  - [3. Data Science](#3-data-science)
-  - [4. Cyber Security](#4-cyber-security)
-  - [5. Career](#5-career)
-  - [Netlify Link](#netlify-link)
-  - [Contributing](#contributing)
+# Day-26-Task | React-6-Task
 
 # Project Dashboard
 
-Welcome to the Project Dashboard! 🚀 Dive into a world of insights and information across various domains, including FullStack development, Data Science, Cyber Security, and Career exploration. Whether you're a developer, data scientist, cybersecurity enthusiast, or someone on a career journey, this dashboard is crafted just for you.
-
-### Installation & Getting Started
-
-Follow the steps below to get started with the project:
-
-1. **Clone the repository:**
-
-   ```bash
-   https://github.com/Chandruvijayakumar/DashBoard-Task-React-Day-6-.git
-
-   ```
-
-2. **Navigate to the project directory:**
-
-   ```bash
-   cd shopping-cart
-   ```
-
-3. **Visual Code:**
-
-   ```bash
-   code
-   ```
-
-4. **Install the server and start it:**
-   - Go to `server` directory using `cd server`.
-   - Install the dependencies by running `npm install`.
-   - Then, you can start the server by executing `nodemon server.js` in your terminal.
-5. **Start developing!**
-   Open another terminal window (or tab) and navigate back to the root folder of this repo (`project-dashboard`). Now, start the React App by running `npm start`
-   ```bash
-   npm start
-   ```
-6. **Install dependencies:**
-
-   ```bash
-   npm install http://localhost:3000
-   ```
-
-7. **Port:**
-
-   ```bash
-   http://localhost:3000
-   ```
-
-# Project Features
-
-Explore a diverse range of features tailored for developers, data scientists, cybersecurity enthusiasts, and career explorers.
+Welcome to the React Router Project! Dive into a world of insights and information across various domains, including FullStack development, Data Science, Cyber Security, and Career exploration. Whether you're a developer, data scientist, cybersecurity enthusiast, or someone on a career journey, this dashboard is crafted just for you.Routing is implemented with the help of `react-router-dom` library.
 
 ## 1. All Domain
 
@@ -88,14 +31,27 @@ Explore a diverse range of features tailored for developers, data scientists, cy
 - **Career Exploration:** Navigate career opportunities and resources for professional growth.
 - **Job Insights:** Explore job postings, interview tips, and valuable career development insights.
 
-## Netlify Link
+## Usage
 
-[link](https://dashboardreact6.netlify.app/)
+1. Clone the repository to your local machine.
+2. cd into your cloned repository.
+3. Execute npm i to add node modules files.
+4. Execute npm run dev to start the application
 
-```bash
-https://dashboardreact6.netlify.app/
-```
+## Technologies Used
 
-## Contributing
+- Vite
+- React
+- JSX
+- Bootstrap
 
-We welcome contributions from the community. If you have suggestions, bug reports, or want to add new features, please open an issue or submit a pull request.
+## How to Contribute
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make changes and submit a pull request.
+4. Your contributions are highly appreciated!
+
+## Live Demo
+
+Check out the live demo: [React Router Application](https://react-router-manu.netlify.app/)
