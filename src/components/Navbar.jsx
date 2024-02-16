@@ -3,14 +3,14 @@ import { NavLink } from "react-router-dom";
 function Navbar() {
   return (
     <nav
-      className="navbar navbar-expand-lg"
+      className="navbar navbar-expand-lg bg-white text-black "
       style={{
         boxShadow:
           "rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;",
       }}
     >
       <div className="container d-flex justify-content-between ">
-        <div className="navbar-brand text-white">React Router Task</div>
+        <div className="navbar-brand">React Router Task</div>
         <button
           className="navbar-toggler"
           type="button"
